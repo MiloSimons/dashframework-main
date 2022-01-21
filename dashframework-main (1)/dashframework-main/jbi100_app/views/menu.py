@@ -13,7 +13,7 @@ def generate_description_card():
             html.H5("Example dashboard"),
             html.Div(
                 id="intro",
-                children="You can use this as a basic template for your JBI100 visualization project.",
+                children="Hello this is a test",
             ),
         ],
     )
